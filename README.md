@@ -1,12 +1,12 @@
-#Nome do projecto
+#Nome do projecto:
 Programa freelance 
 
-##Tecnologias
+##Tecnologias:
 python 3
 
 
-##Autor
+##Autor:
 Matondo Paulo Castro
 
-##Licença
+##Licença:
 MIT
