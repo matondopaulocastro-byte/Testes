@@ -6,7 +6,7 @@ python 3
 
 **blogue**
 *freelas*
-[visitar Facebook](https//:freelaas.com)
+[visitar Facebook](https//:freelance.com)
 Autor:
 Matondo Paulo Castro
 
